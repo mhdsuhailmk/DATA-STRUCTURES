@@ -41,7 +41,7 @@ void main()
 		 exit(0);
 
 	 default:
-		 printf("\nWrong Choice!\n");
+		 printf("\n Wrong Choice!\n");
       }
    }
 }
@@ -64,7 +64,7 @@ void push(int value)
 void pop()
 {
    if(top == NULL)
-      printf("\nStack is Empty!!!\n");
+      printf("\n Stack is Empty!!!\n");
    else{
       struct Node *temp = top;
       printf("\nDeleted element: %d\n", temp->data);
