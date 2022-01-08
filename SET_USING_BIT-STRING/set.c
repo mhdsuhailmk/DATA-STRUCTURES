@@ -1,5 +1,6 @@
-#include<stdio.h>
+//draft 
 
+#include<stdio.h>
 void input();
 void output();
 void set_union();
