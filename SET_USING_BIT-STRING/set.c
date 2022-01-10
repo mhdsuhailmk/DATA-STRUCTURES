@@ -77,7 +77,6 @@ while(ext==1);
 
 
 
-
 void input()
 {
 int size,val,i;
